@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.obj
+*.ply
+*.pcd
+*.bin
+*.db
+images/
